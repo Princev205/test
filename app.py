@@ -1,4 +1,4 @@
-```python
+
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -360,4 +360,3 @@ st.dataframe(
     importance_df.head(20),
     use_container_width=True
 )
-```
